@@ -1,22 +1,18 @@
-# Hi I'm Yvette Skylar Amoth 
+#CHATGPT 
+**ChatGPT**(Chat Generative Pre Trained Transformer)is the one of the most popular AI tool for students.
 
-##ABOUT ME 
-•Am a student learning programming e.g computer programming at IYF academy Nairobi, interested in technology and software development.
-•Learnig GitHub and python 
+##Why students should use ChatGPT 
+√It works on window,Moc and Mobile.
+√It explains almost every topic on simple words.
+√It has built in a chat so you can ask, follow and ask questions.
+√Thousands of prompts and used cases are available.
 
-## CURRENT GOALS 
-•Learn Git and Github 
-•Build programming projects and improving my computer skills.
+###How to get started 
+•Download it from[chat
+openai.com](https=//chat.openai.com)
+•Create a free account 
+•Start asking questions and learning 
 
-##CURRENT PROJECTS 
-•Programming:https://yvetteamoth06.github.io
-
-##HOW TO REACH ME
-Email: yvetteamoth06@gmail.com 
-Profile link:https://yvetteamoth06.github.io
-
-
-##FUN FACT
-
-•I enjoy learning new technology skills everyday.
+###Useful links 
+[ChatGPTDocumentation](https://help.openai.com)
 
