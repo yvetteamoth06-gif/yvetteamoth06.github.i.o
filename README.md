@@ -16,3 +16,11 @@ openai.com](https=//chat.openai.com)
 ###Useful links 
 [ChatGPTDocumentation](https://help.openai.com)
 
+##Task 4 collaborating ad a team 
+-practiced creating a branch called 'task 4 readme'
+-Edited README.md file 
+-Ready to create Pull request 
+Date:13/06/2026
+
+
+
