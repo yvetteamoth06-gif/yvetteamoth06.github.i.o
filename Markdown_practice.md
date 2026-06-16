@@ -7,4 +7,4 @@
 •How to create lists
 
 ## My Goals
-•I want to build a personal website: https://yvetteamoth06.github.io
+•I want to build a personal website: https://yvetteamoth06.github.i.o
