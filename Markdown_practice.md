@@ -1,4 +1,4 @@
-him# MY MARKDOWN PRACTICE 
+youhim# MY MARKDOWN PRACTICE 
 •Hi👋 I'm Yvette this is my first markdown file
 
 ## Three things i learnt today
@@ -7,4 +7,5 @@ him# MY MARKDOWN PRACTICE
 •How to create lists
 
 ## My Goals
-•I want to build a personal website: https://yvetteamoth06-gif
+•I want to build my personal website 
+
